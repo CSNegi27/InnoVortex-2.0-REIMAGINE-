@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.shadow-blue-200 {
+    --tw-shadow-color: #118AB2;
+    box-shadow: 10px -5px 50px -5px var(--tw-shadow-color)
+}
+
